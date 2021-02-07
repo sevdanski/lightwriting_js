@@ -1,0 +1,23 @@
+body {
+    background-color:cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lwdemo {
+    min-height: 500px;
+}
+
+
+.lwcontainer {
+    display: flex;
+    background: url('./../images/background.jpg');
+    background-size: cover;
+}
+
+
+.lwcanvas {
+    display: block;
+    width: 100%;
+    /* grid-column: 1;
+    grid-row: 1; */
+}
